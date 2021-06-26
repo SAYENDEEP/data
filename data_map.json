@@ -1,0 +1,411 @@
+{
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "DAL LAKE",
+          "description": "Dal lake, the Jewel in the crown of Kashmir, is an urban lake, which is the second largest in  Jammu and Kashmir",
+          "image":"dal.jpg"
+        },
+        "geometry": {
+          "coordinates": [74.8683, 34.1106],
+          "type": "Point"
+        }
+      },
+  
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "MEGHALAYA",
+          "description": "Meghalaya ,a northeastern states of India, is famous for its high rainfall, subtropical forests and biodiversity,",
+          "image":"Meghalayajpg"
+              },
+        "geometry": {
+          "coordinates": [91.366216, 25.467031],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "MUMBAI",
+          "description": "Mumbai is the home of the Elephanta Caves, the city's distinctive ensemble of Victorian and Art Deco buildings.",
+          "image":"mumbai.jpg"     
+           },
+        "geometry": {
+          "coordinates": [73.0958, 18.6852],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "MADHYA PRADESH",
+          "description": "Madhya Pradesh is known as the “Heart of India” . It is the home to cultural and spiritual heritage of India",
+          "image":"madhyapradesh.jpg"     
+           },
+        "geometry": {
+          "coordinates": [77.947998, 23.473324],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "KASHMIR",
+          "description": "Kashmir is surrounded by the sublime mountains, these valleys echo nature, beauty and a certain level of mysticism.",
+          "image":"kashmir.jpg"
+                },
+        "geometry": {
+          "coordinates": [75.3412, 33.2778],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "UTTAR PRADESH",
+          "description": "Uttar Pradesh defines India aesthetically and its rich history that's as ancient as the time known. ",
+          "image":"up.jpg"
+        },
+        "geometry": {
+          "coordinates": [80.9462, 26.8467],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "KERALA",
+          "description": " Kerala is called as God's own country and famous for its ecotourism initiatives and beautiful backwaters .",
+          "image":"kerala.jpg"    
+            },
+        "geometry": {
+          "coordinates": [76.2711, 10.8505],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "GOA",
+          "description": "Goa is famous for overwhelming Beaches,thrilling Water Sports and Entertaining Carnival Festival.",
+          "image":"goa.jpg"
+                },
+        "geometry": {
+          "coordinates": [74.124, 15.2993],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "WEST BENGAL",
+          "description": "West Bengal has The Himalayas, The Duars Forests, the vast beaches of The Bay of Bengal, and innumerable rivers",
+          "image":"wb.jpg"
+                },
+        "geometry": {
+          "coordinates": [87.855, 22.9868],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "SRINAGAR",
+          "description": "The old city is famous for Dal Lake, and fabulous Kashmiri cuisine,set amidst the granduer of majestic mountains.",
+          "image":"srinagar.jpg"
+                },
+        "geometry": {
+          "coordinates": [74.7973, 34.0837],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "GULMARG",
+          "description": "Gulmarg is filled with excellent views of the glorious Himalayas and the scenic beauty and embark on adventures.",
+          "image":"gulmarg.jpg"
+                },
+        "geometry": {
+          "coordinates": [74.3805, 34.0484],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "PAHALGAM",
+          "description": "Pahalgam is famous for its scenic beauty  and an ideal setting for  hiking, trekking, and fishing.",
+          "image":"pahalgam.jpg"
+                },
+        "geometry": {
+          "coordinates": [75.315, 34.0161],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "GUJARAT",
+          "description": "Gujarat is famous for its traditional clothing,food,natural landscapes, Rann of Kutch and colourful handicrafts.",
+          "image":"gujarat.jpg"
+                },
+        "geometry": {
+          "coordinates": [71.1924, 22.2587],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "AHMEDABAD",
+          "description": "Ahmedabad is situated on the banks of Sabarmati river and famous for cotton textiles,mouth-watering snack .",
+          "image":"AHMEDABAD.jpg"
+                },
+        "geometry": {
+          "coordinates": [72.5714, 23.0225],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "RAJKOT",
+          "description": "Rajkot is an industrial town and is famous for the hand made stuffs which are traditional and ethnic.",
+          "image":"RAJKOT.jpg"
+                },
+        "geometry": {
+          "coordinates": [70.8022, 22.3039],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "SOMNATH",
+          "description": "The Somnath temple is located in Veraval in Saurashtra on Gujarat and a pilgrimage and tourist spot of Gujarat.",
+          "image":"SOMNATH.jpg"
+                },
+        "geometry": {
+          "coordinates": [70.4012, 20.888],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "DWARKA",
+          "description": "The mystique city located on the banks of River Gomti, Dwarka has the story of over 2,500 years to tell. ",
+          "image":"DWARKA.jpg"
+                },
+        "geometry": {
+          "coordinates": [77.05, 28.5823],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "JAMNAGAR",
+          "description": "Jamnagar of Gujarat state is the home to beautiful lakes,stunning coastline and ancient structures",
+          "image":"JAMNAGAR.jpg"
+                },
+        "geometry": {
+          "coordinates": [70.0577, 22.4707],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "NORTH GOA",
+          "description": "North Goa lets you spend time in its beaches, clubs, flea markets, forts and the best parties in Goa.",
+          "image":"NORTHGOA.jpg"
+                },
+        "geometry": {
+          "coordinates": [73.983, 15.5163],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "SOUTH GOA",
+          "description": "South Goa has heavenly beaches, glorious temples and churches,wildlife sanctuaries and colossal forts.",
+          "image":"SOUTHGOA.jpg"
+                },
+        "geometry": {
+          "coordinates": [74.124, 15.1177],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "COCHIN",
+          "description": "Cochin,the Queen of Arabian Sea,has one of the finest natural harbours and was the centre of the world spice trade.",
+          "image":"COCHIN.jpg"
+                },
+        "geometry": {
+          "coordinates": [76.2673, 9.9312],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "ALLEPPEY",
+          "description": " Alleppey is famous for its ageless temples,serpentine canals, rice paddies, and a 150-year old lighthouse.",
+          "image":"ALLEPPEY.jpg"
+                },
+        "geometry": {
+          "coordinates": [76.3388, 9.4981],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "KUMARAKOM",
+          "description": "Kumarakom is a green village on the banks of Vembanad Lake in Kerala's backwaters and its backwater tourism.",
+          "image":"KUMARAKOM.jpg"
+                },
+        "geometry": {
+          "coordinates": [76.4301, 9.6175],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "KOVALAM",
+          "description": "Kovalam is famous for its beaches and the city is characterized by its endless rows of coconut trees.",
+          "image":"KOVALAM.jpg"
+                },
+        "geometry": {
+          "coordinates": [76.982, 8.3988],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "TRIVANDRUM",
+          "description": "Thiruvananthapuram is  known for the Padmanabhaswamy Temple, beaches, backwaters and Lion and Deer Safari.",
+          "image":"Trivandrum.jpg"
+                },
+        "geometry": {
+          "coordinates": [76.9366, 8.5241],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "GUWAHATI",
+          "description": "Guwahati is famous for the beautiful Kamakhya temple. There are many temples in the city that will leave you mesmerized.",
+          "image":"GUWAHATI.jpg"
+                },
+        "geometry": {
+          "coordinates": [91.7362, 26.1445],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "CHERRAPUNJEE",
+          "description": "Cherrapunji also known as 'Jewel Crest Of Meghalaya' is famous for its natural caves and high waterfalls.",
+          "image":"CHERRAPUNJEE.jpg"
+                },
+        "geometry": {
+          "coordinates": [91.7323, 25.2702],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "NONGRIAT TREK",
+          "description": "The double decker root bridge, is the most popular attraction of Nongriat in Cherrapunjee region",
+          "image":"NONGRIAT_TREK.jpg"
+                },
+        "geometry": {
+          "coordinates": [91.858132, 25.437225],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "DAWKI",
+          "description": "A small border town in the Jaintia Hills, Dawki and its famed river Umngot River is a must-visit if in Meghalaya.",
+          "image":"dawki.jpg"
+                },
+        "geometry": {
+          "coordinates": [77.947998, 25.184],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "SHILLONG",
+          "description": "Shillong adorns beautiful waterfalls, lush green fields, hills and a number of roaring waterfalls.",
+          "image":"shillong.jpg"        },
+        "geometry": {
+          "coordinates": [91.8933, 25.5788],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "HARIDWAR",
+          "description": " Haridwar is called the gateway to the Hindu pilgrimage and has amazing mountains, rivers and ancient temples",
+          "image":"Haridwar.jpg"        },
+        "geometry": {
+          "coordinates": [78.1642, 29.9457],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "AULI",
+          "description": "Auli is surrounded by coniferous and oak forests, with a panoramic view of the peaks of the Himalayas",
+          "image":"Auli.jpg"        },
+        "geometry": {
+          "coordinates": [79.57026, 30.52892],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "RISHIKESH",
+          "description": "Rishikesh is known as the pilgrimage town and is famous for meditation, yoga, rafting, kayaking, etc. ",
+          "image":"Rishikesh.jpg"
+                },
+        "geometry": {
+          "coordinates": [78.268112, 30.08716],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "CHOPTA",
+          "description": "Chopta,hill station is famous for its snow-capped mountains, skiing, trekking, bird watching",
+          "image":"CHOPTA.jpg"
+                },
+        "geometry": {
+          "coordinates": [79.048386, 30.346434],
+          "type": "Point"
+        }
+      }
+    ]
+  }
+  
